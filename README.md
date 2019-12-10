@@ -1,4 +1,4 @@
-# telegram-translator
+# Telegram-Translator
 
 **Functions**\
 This bot allows users to easily find translations for text in other languages
