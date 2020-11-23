@@ -1,4 +1,6 @@
 # Telegram-Translator
+**Setting up bot**\
+Replace `<bot>` with your own telegram bot token obtained from BotFather
 
 **Functions**\
 This bot allows users to easily find translations for text in other languages
